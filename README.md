@@ -8,4 +8,4 @@
 
 ### Will do: delete console logs and write comments.
 
-### Not sure if we can use Bootstrap js plugins.
+
